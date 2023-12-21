@@ -1,4 +1,7 @@
 # Correlation and regression for data analysis
+
+### Developed by: Krithick Vivekananda
+### Register Number:212223240075
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
